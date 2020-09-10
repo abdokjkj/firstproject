@@ -1,0 +1,184 @@
+
+@media (max-width:991px){
+
+h3{
+
+color: blue;
+
+}
+
+.footer h3{
+
+float: none;
+width: 80%;
+
+}
+
+.footer ul{
+
+width: 100%;
+float: none;
+
+}
+
+.footer ul li{
+
+display: block;
+text-align: center;
+transition: all 0.2s ease-in-out;
+padding-bottom: 10px;
+
+}
+
+.footer ul li:hover{
+
+background-color: teal;
+
+}
+
+.footer{
+
+position: relative;
+background-color: #DDD;
+
+}
+
+.footer input , .footer ul {
+
+display: none;
+
+}
+
+.footer label{
+
+display: inline-block;
+position: absolute;
+right: 40px;
+width:55px;
+height: 55px;
+background-size: cover;
+background-repeat: no-repeat;
+background-image: url('../images/open.png');
+cursor: pointer;
+top: 0px;
+
+}
+
+.footer input:checked ~ ul{
+
+display: block;
+height: 280px;
+
+}
+
+.footer input:checked ~ label{
+
+background-image: url('../images/close.png');
+
+}
+
+.back{
+
+display: block;
+
+}
+
+.section{
+
+background-color: #EEE;
+
+}
+
+.section .z1 , .section .z2 , .section .z3{
+
+margin-left: 40px;
+
+}
+
+.im{
+
+background-color: #DDD;
+
+}
+
+.diff p{
+
+color: white;
+
+}
+    
+.i1 button {
+    
+left: 50px;
+margin-top: 150px;
+margin-left: 100px
+
+}
+
+.diff .i1{
+
+width: 50%;
+font-size: 0;
+    
+}
+    
+.diff div img {
+    
+width: 100%;
+    
+}
+
+.diff{
+
+background-color: #DDD;
+
+}
+
+.i1 .overlay1 button , .i1 .overlay2 button , .i1 .overlay3 button , .i1 .overlay4 button , .i1 .overlay5 button , .i1 .overlay6 button,
+.i1 .overlay7 button , .i1 .overlay8 button{
+
+top: 0;
+margin: 150px auto;
+padding: 10px;
+background-color: black;
+color: white;
+
+}
+
+.voll .cc{
+
+color: red;
+
+}
+
+.u1 div p{
+
+color: green;
+    
+}
+
+.social p{
+
+color: orangered;
+
+}
+
+.o input , .o textarea , .o button{
+
+background-color: wheat;
+
+}
+
+.foot p{
+
+color: black;
+
+}
+
+.foot{
+
+background-color: white;
+
+}
+
+}

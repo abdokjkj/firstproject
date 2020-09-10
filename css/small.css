@@ -1,0 +1,157 @@
+
+@media (max-width:767px){
+
+.back h2 , .back h3 , .back p{
+
+color: blue;
+
+}
+
+h3{
+
+color: red;
+
+}
+
+.footer{
+
+background-color: lightskyblue;
+width: 100%;
+
+}
+
+.section{
+
+background-color: #EEE;
+height: 1000px;
+width: 100%;
+width: 100%;
+
+}
+
+.section .z1 , .section .z2 , .section .z3{
+
+border: none;
+border: 1px solid firebrick;
+margin: 0;
+margin-left: 20px;
+margin-right: 20px;
+
+}
+
+.im{
+
+background-color: #EEE;
+width: 100%;
+
+}
+
+.diff .i1{
+
+width: 100%;
+font-size: 0;
+    
+}
+    
+.diff div img {
+    
+width: 100%;
+    
+}
+
+.diff{
+
+background-color: #EEE;
+
+width: 100%;
+}
+
+.i1 .overlay1 button , .i1 .overlay2 button , .i1 .overlay3 button , .i1 .overlay4 button , .i1 .overlay5 button , .i1 .overlay6 button,
+.i1 .overlay7 button , .i1 .overlay8 button{
+
+top: 0;
+margin: 150px auto;
+padding: 10px;
+background-color: white;
+color: black;
+
+}
+
+.voll .cc{
+
+text-align: center;
+color: blue; 
+
+}
+
+.cc p:nth-of-type(2) , .cc p:nth-of-type(5) , .cc p:nth-of-type(6){
+
+margin-left: -20px;
+    
+}
+
+.cc p:nth-of-type(3){
+
+margin-left: -10px;
+
+}
+
+.cc p:nth-of-type(4){
+
+margin-left: 20px;
+
+}
+
+.u1{
+
+margin-top: 240px;
+
+}
+
+.u1 div{
+
+margin: 50px auto;
+
+}
+
+.social p{
+
+color: black;
+
+}
+
+.social div:first-of-type , .social div:nth-of-type(2) , .social div:nth-of-type(3){
+
+width: 100%;
+
+}
+
+.o input , .o textarea , .o button{
+
+background-color: snow;
+
+}
+
+.o input:first-of-type , .o input:nth-of-type(2) , .o input:nth-of-type(3){
+
+width: 100%;
+margin-bottom: 5px;
+
+}
+
+.foot p{
+
+color: white;
+padding-top: 3%;
+
+}
+
+.foot{
+
+background-color: black;
+width: 100%;
+
+}
+
+
+}
